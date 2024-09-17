@@ -1,9 +1,23 @@
-- 👋 Hi, I’m Sankaran!
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Java Spring boot, Gradle, CI CD migration, Docker, Pipelines (Testing, Vulnerability assessment, Quality check, and Deployment)
-- 📫 How to reach me sankaran.m@outlook.com
+### 👋 Hi, I’m Sankaran!
 
-<!---
-sankaran-m/sankaran-m is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m passionate about **Web Development** and have strong expertise in **React** and **React Native**.
+- 🌱 Currently, I’m expanding my skills in **Java Spring Boot**, **Gradle**, and **CI/CD migration**.
+- 🛠️ I'm also learning tools like **Docker** and working with **Pipelines** (including **Testing**, **Vulnerability Assessment**, **Quality Check**, and **Deployment**).
+- 💻 My projects involve building efficient web and mobile applications with modern technologies.
+  
+### 🌟 Notable Contributions & Private Work
+
+- 🔐 I have significant private contributions across several repositories, including **enterprise-level** applications and **internal tools** that have streamlined business operations.
+- 🚀 Private work includes:
+  - Implementing **CI/CD pipelines** for robust application deployment.
+  - Migrating **legacy systems** to modern frameworks and architectures.
+  - Leading **React Native** development efforts for cross-platform mobile solutions.
+
+### ⚡ GitHub Stats & Contributions
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sankaran-m&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sankaran-m&layout=compact&theme=radical)
+
+### 📫 How to reach me
+- Email: sankaran.m@outlook.com
