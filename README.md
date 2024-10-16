@@ -13,11 +13,5 @@
   - Migrating **legacy systems** to modern frameworks and architectures.
   - Leading **React Native** development efforts for cross-platform mobile solutions.
 
-### ⚡ GitHub Stats & Contributions
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sankaran-m&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sankaran-m&layout=compact&theme=radical)
-
 ### 📫 How to reach me
 - Email: sankaran.m@outlook.com
